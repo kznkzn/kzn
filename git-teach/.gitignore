@@ -1,1 +1,11 @@
 /target/
+/classes/
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+*.class
+*.rar
+/test-classes/
+
