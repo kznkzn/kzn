@@ -7,7 +7,8 @@ public class UserTest {
 	}
 
 	public void TestDelete(){
-		System.out.println("第一次删除数据");
+		System.out.println("删除数据");
 	}
 
+	
 }
